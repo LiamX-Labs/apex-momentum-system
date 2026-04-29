@@ -328,20 +328,4 @@ python scripts/check_btc_regime.py
 
 ---
 
-## System Name Suggestions
-
-**Current:** "Momentum Breakout Trading System"
-
-**Suggestions:**
-1. **Apex Momentum** - Professional, sharp, conveys top-tier performance
-2. **Compression Alpha** - Highlights the BBWidth edge
-3. **Breakout Edge** - Simple, clear, describes what it does
-4. **Momentum Nexus** - Modern, tech-forward
-5. **Volatility Harvester** - Descriptive of the strategy
-
-**Recommended:** **Apex Momentum** 🎯
-
----
-
-**Built with Claude Code**
-**Last Updated:** October 21, 2025
+**Last Updated:** April 2026
